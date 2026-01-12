@@ -1,2 +1,2 @@
 # ExploreBhavnagar
-name=dhvanivaghasiya
+Author=dhvanivaghasiya
